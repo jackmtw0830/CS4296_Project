@@ -5,6 +5,7 @@ Method 1:
 3.	Install all the packages and set the permission of EC2 access the AWS bucket
 4.	Syncing the S3 bucket to EC2 instance
 5.	Run the python code and get the result
+
 -docker file only for the code (not inculde images and EC2 instance), if can't run please copy and copy and paste
 
 Method 2:
