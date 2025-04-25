@@ -6,7 +6,7 @@ Method 1:
 4.	Syncing the S3 bucket to EC2 instance
 5.	Run the python code and get the result
 
--docker file only for the code (not inculde images and EC2 instance), if can't run please copy and copy and paste
+-docker file only for the code (not inculde images and EC2 instance), if can't run please copy and paste
 
 Method 2:
 1.	Create a new role on AWS IAM with full access to rekognition
